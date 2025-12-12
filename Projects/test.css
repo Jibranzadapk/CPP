@@ -1,0 +1,39 @@
+/* super messy css comment */
+body   {
+
+    background-color:    #ffffff  ;
+    
+    margin:       0   ;
+    padding  : 0   ;    
+
+}
+
+
+
+
+/* random spacing */
+.container    {
+
+    width :  100%    ;
+    max-width:      1200px;
+
+    margin :  auto        /* comment inside */ ;
+
+
+}
+
+
+
+
+.box  {    
+
+    background:   red    ;
+    padding:  20px   30px  ;
+
+    border : 1px     solid     #333;
+
+
+/* multi-line
+comment
+that should be removed */
+}
