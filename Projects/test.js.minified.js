@@ -1,1 +1,0 @@
-function testFunction( a, b ) { var total = a + b ; console.log( "Total is: " , total ) ; return total ;}function messyLoop() { for( var i = 0; i < 10; i++ ) { console.log( "Index:" , i ); }}
