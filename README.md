@@ -15,9 +15,6 @@ Right now it’s pretty empty — but that’s intentional. I’m starting from 
 I wanted a single place to organize my progress, practice problems, and projects while learning C++.  
 Instead of just doing things offline, I’ll be using GitHub to track my growth and share what I’ve learned.  
 
-## 🔄 Current Status  
-📌 Empty for now — starting fresh. The plan is to commit small bits regularly as I learn and practice.  
-
 ## 🏆 Goals  
 - Build a solid foundation in C++  
 - Document progress with clear, understandable code  
